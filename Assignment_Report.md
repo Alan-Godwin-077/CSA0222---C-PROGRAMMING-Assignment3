@@ -1,7 +1,7 @@
 # Assignment 3 – Searching, Sorting, Merging and Array/String Processing
 
-**Student:** Kabilan P  
-**Register Number:** 1911260250  
+**Student:** Alan Godwin J 
+**Register Number:** 1921260244  
 **Repository:** `CSA02-1911260250-Assignment3`  
 **GitHub link:** [ADD AFTER CREATING THE REPOSITORY]
 
